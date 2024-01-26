@@ -1,0 +1,25 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 55px;
+    bottom: 0;
+    left: 0;
+    width: 235px;
+}
+
+.one{
+    background-color: lightgreen;
+}
+
+.two{
+    background-color: lightcoral;
+}
+
+.three{
+    background-color: lightskyblue;
+}
+
+.four{
+    background-color: greenyellow;
+}
